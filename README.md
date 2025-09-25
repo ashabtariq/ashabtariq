@@ -31,24 +31,28 @@
 - Designed a **3-tier architecture** (Presentation, Application, Data) on AWS  
 - Automated deployment via Terraform, used **spot instances** and dynamic scaling  
 - Built web servers via user data scripts inside private/public subnets
+  
   https://github.com/ashabtariq/cloud-devops-portfolio/tree/main/01-scalable-webapp
 
 ### 2. CI/CD Pipelines for Containerized Apps  
 - Created pipelines (Build → Test → Deploy) for a Python app  
 - Integrated **ECR** + **Secrets Manager**, deployed on ECS Fargate  
 - Added **zero-downtime deployments** and **automatic rollback logic**
+  
   https://github.com/ashabtariq/cloud-devops-portfolio/tree/main/02-cicd-github-EC2
 
 ### 3. Serverless URL Shortener  
 - Built a serverless app using **AWS Lambda** + **API Gateway**  
 - Uses JSON body POST on `/shorten`, generates short URLs, and persists in DynamoDB  
 - Fully provisioned using Terraform, secure, and low maintenance
+  
   https://github.com/ashabtariq/cloud-devops-portfolio/tree/main/03-serverless-lambda-api
 
 ### 4. Automated Incident Response System  
 - Monitors CloudWatch & EventBridge for suspicious IAM / API events  
 - Triggers Lambda automatically to quarantine EC2 or disable IAM keys  
 - Minimizes blast radius and accelerates reaction time in security incidents
+  
   https://github.com/ashabtariq/cloud-devops-portfolio/tree/main/05-Incident-Response-Automation
 
 ### 5. SOC & Security Engineering  
@@ -63,7 +67,7 @@
 
 - Email: ashab.tariq@hotmail.com  
 - LinkedIn: (https://www.linkedin.com/in/ashab-tariq/)  
-- Portfolio / Blog: ashabtari7.wixsite.com/personal-portfolio/  
+- Portfolio / Blog: [ashabtari7.wixsite.com/personal-portfolio/](https://ashabtari7.wixsite.com/personal-portfolio/)  
 - Feel free to open issues, pull requests, or message me — I’d love to collaborate!  
 
 ---
