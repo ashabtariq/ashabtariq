@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashab 👋</h1>
-<p align="center">Cloud, DevOps & Cybersecurity Engineer | Automation Advocate | Full-Stack Developer</p>
+<p align="center">Cloud, DevOps & Cybersecurity Engineer | Automation Advocate | Back-End Developer</p>
 
 ---
 
