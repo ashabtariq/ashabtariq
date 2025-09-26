@@ -101,3 +101,5 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png" alt="Prometheus" title="Prometheus"/></code>
 </div>
 
+[![Ashab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashabtariq)](https://github.com/ashabtariq/github-readme-stats)
+
