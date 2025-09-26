@@ -16,7 +16,9 @@
 
 | Domain | Technologies / Tools |
 |---|---|
-| Cloud & Infra            | AWS (EC2, VPC, Lambda, API Gateway, S3, RDS, IAM, CloudWatch, EventBridge) |
+| Cloud & Infra            | <div align="center">
+	                             <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+                             </div>(EC2, VPC, Lambda, API Gateway, S3, RDS, IAM, CloudWatch, EventBridge) |
 | IaC / Automation         | Terraform, Python, Bash, Ansible, GitHub Actions, Docker |
 | Backend / Web            | ASP.NET Core, Node.js, REST APIs, Serverless architecture |
 | DevOps / CI-CD           | Jenkins, GitLab CI, ECS Fargate, ECR, Rollbacks, Zero-downtime deploys |
