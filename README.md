@@ -26,6 +26,7 @@
 ---
 
 ## 📂 Projects & Highlights
+[![wakatime](https://wakatime.com/badge/github/ashabtariq/cloud-devops-portfolio.svg)](https://wakatime.com/badge/github/ashabtariq/cloud-devops-portfolio)
 
 ### 1. Scalable Web Architecture with Terraform  
 - Designed a **3-tier architecture** (Presentation, Application, Data) on AWS  
@@ -103,4 +104,3 @@
 
 ### Github Stats
 ![Ashab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashabtariq&show_icons=true&theme=radical)
-[![wakatime](https://wakatime.com/badge/github/ashabtariq/cloud-devops-portfolio.svg)](https://wakatime.com/badge/github/ashabtariq/cloud-devops-portfolio)
