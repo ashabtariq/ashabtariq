@@ -103,3 +103,4 @@
 
 ### Github Stats
 ![Ashab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashabtariq&show_icons=true&theme=radical)
+[![wakatime](https://wakatime.com/badge/github/ashabtariq/cloud-devops-portfolio.svg)](https://wakatime.com/badge/github/ashabtariq/cloud-devops-portfolio)
