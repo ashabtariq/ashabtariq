@@ -104,3 +104,5 @@
 
 ### Github Stats
 ![Ashab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashabtariq&show_icons=true&theme=radical)
+.. image:: https://wakatime.com/share/@5f84d622-335e-45ba-b439-e3c989cf018d/726d88ee-c0f1-4b87-afdd-e97e3f24b63a.png
+    :target: https://wakatime.com/
