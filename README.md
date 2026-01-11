@@ -1,8 +1,6 @@
 <img src=./header.png>
 ---
 
-# 👋 Hi, I'm Ashab
-
 **Security ML Engineer** focused on **network anomaly detection** and detection engineering.
 
 Zeek • Python • Applied ML • Detection Systems
@@ -65,8 +63,3 @@ Zeek • Python • Applied ML • Detection Systems
   <img src="https://github-readme-stats.vercel.app/api?username=ashabtariq&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashabtariq&theme=tokyonight&hide_border=true" height="150" />
 </p>
-
----
-
-🌐 [https://loopnest.me](https://loopnest.me)
-
