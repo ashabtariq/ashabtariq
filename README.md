@@ -1,5 +1,5 @@
 <img src=./header.png>
----
+
 
 **Security ML Engineer** focused on **network anomaly detection** and detection engineering.
 
@@ -45,7 +45,7 @@ Zeek • Python • Applied ML • Detection Systems
 * Feature engineering → statistical scoring → **Isolation Forest**
 * Focus on **explainable anomalies**, not black-box alerts
 
-👉 Repo: *(add link)*
+👉 Repo: *(https://github.com/ashabtariq/zeek-anomaly-detection)*
 
 ---
 
