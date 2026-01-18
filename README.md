@@ -45,7 +45,7 @@ Zeek • Python • Applied ML • Detection Systems
 * Feature engineering → statistical scoring → **Isolation Forest**
 * Focus on **explainable anomalies**, not black-box alerts
 
-👉 Repo: *(https://github.com/ashabtariq/zeek-anomaly-detection)*
+👉 Repo: *(https://github.com/ashabtariq/ZeekGuard-Demo)*
 
 ---
 
